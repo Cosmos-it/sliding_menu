@@ -1,0 +1,16 @@
+.slider {
+   position: relative;
+   width: 100%;
+   margin: 0 auto;
+   height: 100%;
+   overflow: hidden;
+   white-space: nowrap;
+}
+
+
+.slider-wrapper {
+   position: relative;
+   height: 100%;
+   width: 100%;
+
+}

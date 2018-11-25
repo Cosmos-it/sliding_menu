@@ -1,0 +1,9 @@
+@media screen and (min-width: 600px) {
+  a.icon-button {
+     display: none
+  }
+}
+
+a.icon-button {
+  color: #ccc;
+}
